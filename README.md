@@ -17,7 +17,7 @@ R O O W W W B R G W W W
     B B B 
 ```
 
-And will return a list of the faces that need to be rotated, along with the direction of each necessary rotation. For the example above, the program will return: 
+And will return a list of the faces that need to be rotated, along with the direction (clockwise or counter clockwise) of each necessary rotation. For the example above, the program will return: 
 ```
 Green CCW
 Blue CCW
