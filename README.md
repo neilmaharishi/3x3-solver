@@ -1,6 +1,6 @@
 # 3x3 solver
  
-This program uses an iteration of the A* algorithm, iterative deepening A*, to solve a 3x3 Rubik's cube. Due to the extremely large solution space of a 3x3 Rubik's cube (~43 quintillion), IDA* is a far more appropriate search algorithm due to less memory usage.
+This program uses an iteration of the A* algorithm, iterative deepening A*, to solve a 3x3 Rubik's cube. Due to the extremely large solution space of a 3x3 Rubik's cube (~43 quintillion), IDA* is a far more appropriate search algorithm due to lighter memory usage.
 
 Run "make cube" to compile and ./cube to run this program. 
 
