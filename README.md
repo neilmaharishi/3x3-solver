@@ -5,8 +5,10 @@ This program uses an iteration of the A* algorithm, iterative deepening A*, to s
 Run "make cube" to compile and ./cube to run this program. 
 
 # References 
-https://www.cs.princeton.edu/courses/archive/fall06/cos402/papers/korfrubik.pdf
+https://www.cs.princeton.edu/courses/archive/fall06/cos402/papers/korfrubik.pdf 
+
 https://medium.com/@benjamin.botto/implementing-an-optimal-rubiks-cube-solver-using-korf-s-algorithm-bf750b332cf9
+
 https://stackoverflow.com/questions/36490073/heuristic-for-rubiks-cube#
 
 
